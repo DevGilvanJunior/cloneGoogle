@@ -120,3 +120,7 @@ footer {
     margin-right: 12px;
     font-size: 14px;
 }
+.rodapeEsquerda a,
+.rodapeDireita a:hover {
+    text-decoration: underline;
+}
